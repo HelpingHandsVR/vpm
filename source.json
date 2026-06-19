@@ -1,17 +1,17 @@
 {
-    "name":"Helping Hands VPM Repository",
-    "id":"io.github.helpinghandsvr.vpm",
-    "url":"https://helpinghandsvr.github.io/vpm/index.json",
+    "name": "Helping Hands VPM Repository",
+    "id": "io.github.helpinghandsvr.vpm",
+    "url": "https://helpinghandsvr.github.io/vpm/index.json",
     "author":{
-        "name":"Helping Hands",
+        "name": "Helping Hands",
         "url": "https://helpinghands.gg/"
     },
-    "description":"Helping Hands assets for VRChat Unity projects",
+    "description": "Helping Hands assets for VRChat Unity projects",
     "infoLink":{
-        "url":"https://helpinghandsvr.github.io/vpm/",
-        "text":"View on GitHub"
+        "url": "https://github.com/HelpingHandsVR/vpm",
+        "text": "View on GitHub"
     },
-    "bannerUrl":"banner.svg",
+    "bannerUrl": "banner.svg",
     "githubRepos":[
     ],
     "packages":[
